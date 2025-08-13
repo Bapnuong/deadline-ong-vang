@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: 91e056a178550e340ab1664330944810
+  - enabled: 1
+    path: Assets/Scenes/Cottruyen1.unity
+    guid: 20a4f55e9b4997547b13871297ed4841
+  - enabled: 1
+    path: Assets/Scenes/man1.unity
+    guid: def867048c4f2174fbf0d560b5e2a21b
+  - enabled: 1
+    path: Assets/Scenes/Cottruyen2.unity
+    guid: e1ab9a23c74d11942b42abec71dd24ac
+  - enabled: 1
+    path: Assets/Scenes/man2.unity
+    guid: 085508f244585ab4dbb6ef6ce425c69f
+  - enabled: 1
+    path: Assets/Scenes/Cottruyen3.unity
+    guid: 352a5deeb03336b4fa87c96462fce955
+  - enabled: 1
+    path: Assets/Scenes/man3.unity
+    guid: affdfce5e61ce27418e4518dc01f57ea
+  - enabled: 1
+    path: Assets/Scenes/Ending 1.unity
+    guid: 36efe18aacd4c8d4fb582cdbbfacba3a
+  - enabled: 1
+    path: Assets/Scenes/Ending 2.unity
+    guid: 6453d55369c932b4d9ecf54a2d0f4b71
+  - enabled: 1
+    path: Assets/Scenes/Endless mode.unity
+    guid: 6f98a32f35325cd4e91920b49dc3ef4f
+  - enabled: 1
+    path: Assets/Scenes/LamScene.unity
+    guid: 11c0108083355ab4cad35a35429ab5ed
+  - enabled: 1
+    path: Assets/Scenes/QuyenScene.unity
+    guid: b847ebd936568184b9da8c542474b324
+  - enabled: 1
+    path: Assets/Scenes/test.unity
+    guid: f986f4ca9b7ac644196f0502cf3a925c
+  - enabled: 1
+    path: Assets/Scenes/Pvp.unity
+    guid: d8034b1a2c8350b4a8c744463fe370c8
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: a13d8c581a00a474da60d37754879698, type: 3}
+  m_UseUCBPForAssetBundles: 0
