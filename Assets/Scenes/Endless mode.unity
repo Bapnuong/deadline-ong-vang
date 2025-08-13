@@ -824,6 +824,22 @@ MonoBehaviour:
   - Boss1
   - Boss2
   - Boss3
+  - Boss3
+  - Boss3
+  - Boss3
+  - Boss3
+  - Boss3
+  - Boss3
+  - Boss3
+  - Boss3
+  - Boss3
+  - Boss3
+  - Boss3
+  - Boss3
+  - Boss3
+  - Boss3
+  - Boss3
+  - Boss3
 --- !u!4 &439894844
 Transform:
   m_ObjectHideFlags: 0
@@ -4968,7 +4984,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 704347427236868582, guid: 24eac6f0ec998e645899ba944c631ac9, type: 3}
+  m_Sprite: {fileID: 7011243527374902204, guid: ad39a5a95e44c0846a38dc2e0c2a4007, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4988,8 +5004,8 @@ Transform:
   m_GameObject: {fileID: 1574580033}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0022, y: -0.0152, z: 0}
-  m_LocalScale: {x: 1.0955306, y: 1.0891174, z: 1}
+  m_LocalPosition: {x: -0.1, y: 0.76, z: 0}
+  m_LocalScale: {x: 0.77990824, y: 0.7753427, z: 0.7119}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}

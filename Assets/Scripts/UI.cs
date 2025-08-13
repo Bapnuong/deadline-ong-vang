@@ -58,8 +58,8 @@ public class UI : MonoBehaviour
         // mo phan pvp
     }
 
-    public void chonnhanvat()
+    public void EndlessMode()
     {
-        // mo phan chon nhan vat
+        SceneManager.LoadScene("");
     }
 }
