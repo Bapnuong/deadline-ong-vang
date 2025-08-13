@@ -2321,6 +2321,14 @@ PrefabInstance:
       propertyPath: story1Music
       value: 
       objectReference: {fileID: 8300000, guid: 1fba9bdee3f6c5f4d96fd8d8136547d6, type: 3}
+    - target: {fileID: 3813423975042605031, guid: c276cfc5a5645b24683a08d3dbc28bb3, type: 3}
+      propertyPath: ending1Music
+      value: 
+      objectReference: {fileID: 8300000, guid: c45b73aff06d1064d814465616615a2c, type: 3}
+    - target: {fileID: 3813423975042605031, guid: c276cfc5a5645b24683a08d3dbc28bb3, type: 3}
+      propertyPath: ending2Music
+      value: 
+      objectReference: {fileID: 8300000, guid: e306f9731e897004f8858d89acb78156, type: 3}
     - target: {fileID: 8259572560308632800, guid: c276cfc5a5645b24683a08d3dbc28bb3, type: 3}
       propertyPath: m_Name
       value: Audio Manager 1
