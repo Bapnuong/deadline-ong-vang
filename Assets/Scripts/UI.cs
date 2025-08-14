@@ -62,4 +62,10 @@ public class UI : MonoBehaviour
     {
         SceneManager.LoadScene("Cottruyen4");
     }
+    public void vohanboss()
+    {
+        SceneManager.LoadScene("Endless mode");
+
+    }
+
 }
