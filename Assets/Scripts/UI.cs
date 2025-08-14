@@ -60,6 +60,6 @@ public class UI : MonoBehaviour
 
     public void EndlessMode()
     {
-        SceneManager.LoadScene("");
+        SceneManager.LoadScene("Cottruyen4");
     }
 }
