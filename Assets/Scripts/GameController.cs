@@ -1,6 +1,6 @@
 ﻿using TMPro;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class GameController : MonoBehaviour
 {
     public TextMeshProUGUI scoreText;
@@ -81,5 +81,6 @@ public class GameController : MonoBehaviour
 
             Debug.Log("💾 Điểm đã lưu cho user: " + currentUser);
         }
+        SceneManager.LoadScene("Ending 2"); 
     }
 }

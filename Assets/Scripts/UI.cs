@@ -55,7 +55,7 @@ public class UI : MonoBehaviour
 
     public void Pvp()
     {
-        // mo phan pvp
+        SceneManager.LoadScene("chonPvP");
     }
 
     public void EndlessMode()

@@ -4233,7 +4233,7 @@ MonoBehaviour:
   scoreText: {fileID: 246701041}
   comboText: {fileID: 1046272155}
   timeText: {fileID: 792695331}
-  gameDuration: 60
+  gameDuration: 30
 --- !u!4 &1192085016
 Transform:
   m_ObjectHideFlags: 0
