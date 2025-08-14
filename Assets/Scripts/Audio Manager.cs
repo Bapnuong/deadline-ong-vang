@@ -21,6 +21,10 @@ public class AudioManager : MonoBehaviour
     public AudioClip man2Music;
     public AudioClip man3Music;
 
+    [Header("Ending Music")]
+    public AudioClip ending1Music;
+    public AudioClip ending2Music;
+
     [Header("Player SFX (public so old code still compiles)")]
     public AudioClip punch;
     public AudioClip kick;
@@ -197,6 +201,8 @@ public class AudioManager : MonoBehaviour
             "man1" => man1Music,
             "man2" => man2Music,
             "man3" => man3Music,
+            "Ending1" => ending1Music,
+            "Ending2" => ending2Music,
             _ => menuMusic
         };
 
@@ -206,6 +212,7 @@ public class AudioManager : MonoBehaviour
             StartCoroutine(ChangeMusicSmoothly(toPlay, 0.8f));
         }
     }
+
 
     private IEnumerator ChangeMusicSmoothly(AudioClip newClip, float fadeTime)
     {
