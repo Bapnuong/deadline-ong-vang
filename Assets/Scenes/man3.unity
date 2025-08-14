@@ -3645,7 +3645,7 @@ MonoBehaviour:
   - {fileID: 3555231890636787578, guid: 149034f44f39e254cb9f69a36acc7e50, type: 3}
   - {fileID: 3555231890636787578, guid: d8331904cb41f9443878598cb28b5125, type: 3}
   unlockCosts: 0000000010270000d00700006400000090010000
-  spawnPoint: {fileID: 0}
+  spawnPoint: {fileID: 699082427}
 --- !u!4 &1066663657
 Transform:
   m_ObjectHideFlags: 0
@@ -3882,8 +3882,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec6765e29e952204494a512383c8692e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  finishedPanel: {fileID: 0}
-  finishedText: {fileID: 0}
+  finishedPanel: {fileID: 888810534}
+  finishedText: {fileID: 2026155928}
   scaleDuration: 0.6
 --- !u!4 &1215825941
 Transform:

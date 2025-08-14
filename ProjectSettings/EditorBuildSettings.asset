@@ -33,11 +33,20 @@ EditorBuildSettings:
     path: Assets/Scenes/Ending 2.unity
     guid: 6453d55369c932b4d9ecf54a2d0f4b71
   - enabled: 1
-    path: Assets/Scenes/Cottruyen4.unity
-    guid: 52ceb56804b63a247ac23160d5071986
+    path: Assets/Scenes/Cotruyen5.unity
+    guid: fa379503dd22a4e4fa394cc6c5e9fa9e
   - enabled: 1
     path: Assets/Scenes/Endless mode.unity
     guid: 6f98a32f35325cd4e91920b49dc3ef4f
+  - enabled: 1
+    path: Assets/Scenes/chonPvP.unity
+    guid: a0fd34325e6cea047864ef66595b1993
+  - enabled: 1
+    path: Assets/Scenes/BattleScene.unity
+    guid: 5a365e5554f68174092d81850d7e0f60
+  - enabled: 1
+    path: Assets/Scenes/Cottruyen4.unity
+    guid: 52ceb56804b63a247ac23160d5071986
   - enabled: 1
     path: Assets/Scenes/LamScene.unity
     guid: 11c0108083355ab4cad35a35429ab5ed
@@ -53,12 +62,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
-    path: Assets/Scenes/BattleScene.unity
-    guid: 5a365e5554f68174092d81850d7e0f60
-  - enabled: 1
-    path: Assets/Scenes/chonPvP.unity
-    guid: a0fd34325e6cea047864ef66595b1993
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: a13d8c581a00a474da60d37754879698, type: 3}
   m_UseUCBPForAssetBundles: 0
