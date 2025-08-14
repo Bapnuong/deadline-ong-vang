@@ -5580,7 +5580,9 @@ MonoBehaviour:
   man1Music: {fileID: 0}
   man2Music: {fileID: 0}
   man3Music: {fileID: 0}
-  punch: {fileID: 8300000, guid: 3962cd353dd53344a9dc3e465a9bfa25, type: 3}
+  ending1Music: {fileID: 0}
+  ending2Music: {fileID: 0}
+  punch: {fileID: 8300000, guid: 4f66c613b8e7b774087f3719763506d3, type: 3}
   kick: {fileID: 0}
   hit: {fileID: 8300000, guid: 612391318810e7848bd9a22594c5fbb6, type: 3}
   jump: {fileID: 0}
