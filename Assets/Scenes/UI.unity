@@ -1256,9 +1256,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'EXIT
-
-'
+  m_Text: ENDLESS boss
 --- !u!222 &402314867
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4521,7 +4519,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1934432107}
         m_TargetAssemblyTypeName: UI, Assembly-CSharp
-        m_MethodName: thoatgame
+        m_MethodName: vohanboss
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

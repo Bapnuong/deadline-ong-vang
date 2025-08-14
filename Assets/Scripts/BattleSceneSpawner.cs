@@ -32,16 +32,41 @@ public class BattleSceneSpawner : MonoBehaviour
         player2.transform.position = player2Spawn.position;
         player2.transform.rotation = Quaternion.identity;
 
-        // Gán layer Player2
-        SetLayerRecursively(player2.gameObject, LayerMask.NameToLayer("Player2"));
+        // Gán layer cho Player 2
+        SetPlayer2Layers(player2.gameObject);
     }
 
-    void SetLayerRecursively(GameObject obj, int newLayer)
+    void SetPlayer2Layers(GameObject player)
     {
-        obj.layer = newLayer;
-        foreach (Transform child in obj.transform)
+        // Đổi layer nhân vật thành Player2
+        SetLayerSafe(player, "Player2");
+
+        foreach (Transform child in player.GetComponentsInChildren<Transform>(true))
         {
-            SetLayerRecursively(child.gameObject, newLayer);
+            // Nếu là hitbox tấn công → gán Player2Hitbox
+            if (child.name.ToLower().Contains("attack"))
+            {
+                SetLayerSafe(child.gameObject, "Player2Hitbox");
+            }
+            else
+            {
+                // Các phần khác → gán Player2
+                SetLayerSafe(child.gameObject, "Player2");
+            }
         }
+    }
+
+    /// <summary>
+    /// Gán layer an toàn, báo lỗi nếu layer không tồn tại
+    /// </summary>
+    private void SetLayerSafe(GameObject obj, string layerName)
+    {
+        int layerIndex = LayerMask.NameToLayer(layerName);
+        if (layerIndex == -1)
+        {
+            Debug.LogError($"[BattleSceneSpawner] Layer '{layerName}' không tồn tại. Kiểm tra Project Settings > Tags and Layers.");
+            return;
+        }
+        obj.layer = layerIndex;
     }
 }
