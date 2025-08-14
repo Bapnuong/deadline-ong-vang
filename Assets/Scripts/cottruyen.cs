@@ -44,7 +44,7 @@ public class cottruyen : MonoBehaviour
             storyImage.sprite = null;
             storyText.text = "";
         }
-        if (SceneManager.GetActiveScene().name == "Ending 1" || SceneManager.GetActiveScene().name == "Ending 2")
+        if (SceneManager.GetActiveScene().name == "Ending 1" || SceneManager.GetActiveScene().name == "Ending 2"|| SceneManager.GetActiveScene().name == "Cottruyen4")
         {
             SceneManager.LoadScene("UI");
         }

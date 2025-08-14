@@ -576,10 +576,10 @@ MonoBehaviour:
   storyImage: {fileID: 621338555}
   storyText: {fileID: 2141702480}
   stories:
-  - image: {fileID: -6018635002821064775, guid: b7e08e900410ae649bba597177b35b8e, type: 3}
-    text: "T\xE8o \u0111\xE3 ch\u01A1i r\u1EA5t vui !!!"
-  - image: {fileID: 8151663554777519179, guid: 07716072b15c2fb4b85dd650db039b67, type: 3}
-    text: "T\u1EDBi gi\u1EDD h\u1ECDc b\xE0i n\xE0o !!"
+  - image: {fileID: 4786204066922094153, guid: b9412c83289851b41825dfb7cad6e5ce, type: 3}
+    text: "T\xE8o ng\u1EE7 m\u01A1 th\u1EA5y m\xECnh \u0111ang l\xE0m deadline !!"
+  - image: {fileID: 4786204066922094153, guid: b9412c83289851b41825dfb7cad6e5ce, type: 3}
+    text: "H\xE3y \u0111\u1EC3 T\xE8o l\xE0m quen v\u1EDBi n\xF3 n\xE0o."
   typingSpeed: 0.05
   delayBetweenStories: 1
 --- !u!4 &2060091326

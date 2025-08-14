@@ -98,6 +98,10 @@ public class DamageAble : MonoBehaviour
             {
                 SceneManager.LoadScene("Ending 2");
             }
+            if (SceneManager.GetActiveScene().name == "Endless mode" || SceneManager.GetActiveScene().name == "BattleScene")
+            {
+                SceneManager.LoadScene("Cottruyen4");
+            }
         }
     }
 }
