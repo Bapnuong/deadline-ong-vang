@@ -577,8 +577,8 @@ MonoBehaviour:
   storyText: {fileID: 2141702480}
   stories:
   - image: {fileID: 8151663554777519179, guid: 07716072b15c2fb4b85dd650db039b67, type: 3}
-    text: "T\xE8o \u0111\xE3 \u0111\u1EBFn r\u1EA5t g\u1EA7n v\u1EDBi g\u1EA3i Ong
-      V\xC0ng r\u1ED3i!!!"
+    text: "T\xE8o \u0111\xE3 \u0111\u1EBFn r\u1EA5t g\u1EA7n v\u1EDBi gi\u1EA3i Ong
+      vang' r\u1ED3i!!!"
   - image: {fileID: 2963900172259760494, guid: 08f08d86bdf6c034a96d59c7ca5ebc34, type: 3}
     text: "Ch\u1EC9 c\xF2n 1 b\u01B0\u1EDBc n\u1EEFa th\xF4i l\xE0 \u01B0\u1EDBc
       m\u01A1 c\u1EE7a b\u1EA1n \u1EA5y tr\u1EDF th\xE0nh hi\u1EC7n th\u1EF1c."
