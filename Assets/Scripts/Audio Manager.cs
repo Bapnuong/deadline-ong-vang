@@ -3,6 +3,7 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.Audio;
 
 public class AudioManager : MonoBehaviour
 {
@@ -14,13 +15,20 @@ public class AudioManager : MonoBehaviour
     private List<AudioSource> sfxPool;
 
     [Header("Music Clips (scene-based)")]
+    public AudioClip buton;
+    public AudioClip chuyenanh;
+    public AudioClip mua;
+    public AudioClip click;
+    public AudioSource audioSource;
     public AudioClip menuMusic;
     public AudioClip story1Music;
     public AudioClip story2Music;
     public AudioClip man1Music;
     public AudioClip man2Music;
     public AudioClip man3Music;
+    
 
+   
     [Header("Ending Music")]
     public AudioClip ending1Music;
     public AudioClip ending2Music;
@@ -36,6 +44,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip attackCombo;
     public AudioClip hurt;
     public AudioClip death;
+    
 
     [Header("Boss SFX (public)")]
     public AudioClip bossAttack;
@@ -85,6 +94,34 @@ public class AudioManager : MonoBehaviour
     {
         if (Instance == this) Instance = null;
         SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+    public void am()
+    {
+        if (audioSource != null && buton != null)
+        {
+            audioSource.PlayOneShot(buton);
+        }
+    }
+    public void chuyenhinh()
+    {
+        if (audioSource != null && chuyenanh != null)
+        {
+            audioSource.PlayOneShot(chuyenanh);
+        }
+    }
+    public void muanhanvat()
+    {
+        if (audioSource != null && mua != null)
+        {
+            audioSource.PlayOneShot(mua);
+        }
+    }
+    public void nutthoat()
+    {
+        if (audioSource != null && click != null)
+        {
+            audioSource.PlayOneShot(click);
+        }
     }
 
     private void InitAudio()
@@ -212,6 +249,7 @@ public class AudioManager : MonoBehaviour
             StartCoroutine(ChangeMusicSmoothly(toPlay, 0.8f));
         }
     }
+    
 
 
     private IEnumerator ChangeMusicSmoothly(AudioClip newClip, float fadeTime)

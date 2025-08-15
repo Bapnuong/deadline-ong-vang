@@ -66,6 +66,10 @@ public class UI : MonoBehaviour
     {
         SceneManager.LoadScene("Endless mode");
 
+    }public void vegameui()
+    {
+        SceneManager.LoadScene("UI");
+
     }
 
 }

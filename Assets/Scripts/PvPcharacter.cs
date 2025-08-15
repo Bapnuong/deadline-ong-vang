@@ -38,13 +38,26 @@ public class CharacterSelectionManager : MonoBehaviour
     {
         currentIndex = (currentIndex + 1) % characterPrefabs.Length;
         UpdatePreview();
+
+        // Gọi âm thanh chuyển ảnh
+        if (AudioManager.Instance != null)
+        {
+            AudioManager.Instance.chuyenhinh();
+        }
     }
 
     public void PreviousCharacter()
     {
         currentIndex = (currentIndex - 1 + characterPrefabs.Length) % characterPrefabs.Length;
         UpdatePreview();
+
+        // Gọi âm thanh chuyển ảnh
+        if (AudioManager.Instance != null)
+        {
+            AudioManager.Instance.chuyenhinh();
+        }
     }
+
 
     public void ConfirmSelection()
     {
@@ -55,9 +68,17 @@ public class CharacterSelectionManager : MonoBehaviour
             currentIndex = 0;
             UpdatePreview();
             instructionText.text = "Player 2";
+            if (AudioManager.Instance != null)
+            {
+                AudioManager.Instance.muanhanvat();
+            }
         }
         else
         {
+            if (AudioManager.Instance != null)
+            {
+                AudioManager.Instance.muanhanvat();
+            }
             player2Choice = currentIndex;
             instructionText.text = "Loading...";
             LoadBattleScene();

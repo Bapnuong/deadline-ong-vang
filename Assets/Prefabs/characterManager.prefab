@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7823812802122495262
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1738427159982262369}
+  - component: {fileID: 7521432401318880316}
+  m_Layer: 0
+  m_Name: characterManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1738427159982262369
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7823812802122495262}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.1, y: -1, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7521432401318880316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7823812802122495262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e55cd7a7fd401b448566ce093bf0ec2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panelShop: {fileID: 0}
+  btnPrev: {fileID: 0}
+  btnNext: {fileID: 0}
+  btnSelect: {fileID: 0}
+  scoreText: {fileID: 0}
+  unlockCostText: {fileID: 0}
+  characterPreview: {fileID: 0}
+  lockIcon: {fileID: 0}
+  characterImages:
+  - {fileID: -828710728904630521, guid: fb514e2c4020ffc4da0225d18958dfe7, type: 3}
+  - {fileID: -181942923148628749, guid: 631f1745036368c4d81dd637b2e845dc, type: 3}
+  - {fileID: 7736560055426557889, guid: e0d7ff5e62cb54e489eb30653b987ed6, type: 3}
+  - {fileID: -2223003186346218183, guid: aebe62c0725052a4584bfb3cce513a8d, type: 3}
+  - {fileID: -7466233245383803313, guid: 8621b02e3acea8640b53f9b8baba64fe, type: 3}
+  characterPrefabs:
+  - {fileID: 3555231890636787578, guid: beeb8685757d7ff479bda98c7cf0d4cb, type: 3}
+  - {fileID: 3555231890636787578, guid: cfe3e30dd8d2ecd479d0cadc3729083a, type: 3}
+  - {fileID: 3555231890636787578, guid: 310410a56c089834ab1a1081547e4385, type: 3}
+  - {fileID: 3555231890636787578, guid: 149034f44f39e254cb9f69a36acc7e50, type: 3}
+  - {fileID: 3555231890636787578, guid: d8331904cb41f9443878598cb28b5125, type: 3}
+  unlockCosts: 0000000010270000d00700006400000090010000
+  spawnPoint: {fileID: 0}

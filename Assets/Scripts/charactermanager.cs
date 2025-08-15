@@ -52,7 +52,13 @@ public class CharacterSelector : MonoBehaviour
         currentIndex--;
         if (currentIndex < 0)
             currentIndex = characterImages.Length - 1;
+
+        if (AudioManager.Instance != null)
+        {
+            AudioManager.Instance.muanhanvat();
+        }
         UpdateUI();
+
     }
 
     void OnNext()
@@ -60,6 +66,11 @@ public class CharacterSelector : MonoBehaviour
         currentIndex++;
         if (currentIndex >= characterImages.Length)
             currentIndex = 0;
+
+        if (AudioManager.Instance != null)
+        {
+            AudioManager.Instance.muanhanvat();
+        }
         UpdateUI();
     }
 
@@ -98,6 +109,11 @@ public class CharacterSelector : MonoBehaviour
 
             currentCharacterInGame = Instantiate(characterPrefabs[currentIndex], spawnPoint.position, Quaternion.identity);
             panelShop.SetActive(false);
+
+            if (AudioManager.Instance != null)
+            {
+                AudioManager.Instance.muanhanvat();
+            }
         }
     }
 
@@ -110,6 +126,11 @@ public class CharacterSelector : MonoBehaviour
             PlayerPrefs.SetInt("char_" + currentUser + "_" + currentIndex, 1);
             PlayerPrefs.SetInt("score_" + currentUser, playerScore);
             PlayerPrefs.Save();
+
+            if (AudioManager.Instance != null)
+            {
+                AudioManager.Instance.muanhanvat();
+            }
 
             StartCoroutine(FadeOutLockIcon());
         }

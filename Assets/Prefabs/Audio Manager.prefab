@@ -176,10 +176,42 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   musicSource: {fileID: 321739857381026030}
-  SFXSource: {fileID: 1815558005489583232}
-  background: {fileID: 8300000, guid: 943e074722124294eb17bbfe9659ea94, type: 3}
+  sfxPoolSize: 10
+  buton: {fileID: 8300000, guid: 6083d1005f7ce434ca118e7103084bfb, type: 3}
+  chuyenanh: {fileID: 8300000, guid: 345504d5ea5e52e419027db282a8ea9e, type: 3}
+  mua: {fileID: 8300000, guid: d0f6ece5191531348a3de81dddf0e30e, type: 3}
+  audioSource: {fileID: 0}
+  menuMusic: {fileID: 0}
+  story1Music: {fileID: 0}
+  story2Music: {fileID: 0}
+  man1Music: {fileID: 0}
+  man2Music: {fileID: 0}
+  man3Music: {fileID: 0}
+  ending1Music: {fileID: 0}
+  ending2Music: {fileID: 0}
   punch: {fileID: 8300000, guid: 4f66c613b8e7b774087f3719763506d3, type: 3}
+  kick: {fileID: 0}
   hit: {fileID: 8300000, guid: 612391318810e7848bd9a22594c5fbb6, type: 3}
+  jump: {fileID: 0}
+  land: {fileID: 0}
+  dash: {fileID: 0}
+  walk: {fileID: 0}
+  attackCombo: {fileID: 0}
+  hurt: {fileID: 0}
+  death: {fileID: 0}
+  bossAttack: {fileID: 0}
+  bossSpecialAttack: {fileID: 0}
+  bossHit: {fileID: 0}
+  bossRoar: {fileID: 0}
+  bossPhaseChange: {fileID: 0}
+  bossDeath: {fileID: 0}
+  boss1Dash: {fileID: 0}
+  boss1Slash1: {fileID: 0}
+  boss1Slash2: {fileID: 0}
+  boss1Slash3: {fileID: 0}
+  boss2Slash: {fileID: 0}
+  musicSlider: {fileID: 0}
+  sfxSlider: {fileID: 0}
 --- !u!1 &8044131120626601153
 GameObject:
   m_ObjectHideFlags: 0
