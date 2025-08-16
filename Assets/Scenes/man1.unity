@@ -1174,8 +1174,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4278190335
+  m_fontColor: {r: 1, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1192,8 +1192,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 80
-  m_fontSizeBase: 80
+  m_fontSize: 90
+  m_fontSizeBase: 90
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3117,8 +3117,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec6765e29e952204494a512383c8692e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  finishedPanel: {fileID: 1534834240}
-  finishedText: {fileID: 1632268836}
+  finishedPanel: {fileID: 0}
+  finishedText: {fileID: 0}
   scaleDuration: 0.6
 --- !u!4 &1215825941
 Transform:
@@ -4173,8 +4173,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 183, y: -316}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 531, y: -132}
+  m_SizeDelta: {x: 485.55, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1567513253
 CanvasRenderer:
@@ -4215,8 +4215,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4278190335
+  m_fontColor: {r: 1, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -5535,7 +5535,7 @@ MonoBehaviour:
   characterImages:
   - {fileID: -828710728904630521, guid: fb514e2c4020ffc4da0225d18958dfe7, type: 3}
   - {fileID: -181942923148628749, guid: 631f1745036368c4d81dd637b2e845dc, type: 3}
-  - {fileID: 7736560055426557889, guid: e0d7ff5e62cb54e489eb30653b987ed6, type: 3}
+  - {fileID: -3195960554827558580, guid: cddce7a8ff86f644dafb66fe5329bf44, type: 3}
   - {fileID: -2223003186346218183, guid: aebe62c0725052a4584bfb3cce513a8d, type: 3}
   - {fileID: -7466233245383803313, guid: 8621b02e3acea8640b53f9b8baba64fe, type: 3}
   characterPrefabs:

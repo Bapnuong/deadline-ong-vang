@@ -2005,7 +2005,6 @@ RectTransform:
   - {fileID: 348035225}
   - {fileID: 431244474}
   - {fileID: 888810535}
-  - {fileID: 1066663657}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -2253,8 +2252,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4278190335
+  m_fontColor: {r: 1, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2271,8 +2270,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 80
-  m_fontSizeBase: 80
+  m_fontSize: 90
+  m_fontSizeBase: 90
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3426,7 +3425,7 @@ MonoBehaviour:
   characterImages:
   - {fileID: -828710728904630521, guid: fb514e2c4020ffc4da0225d18958dfe7, type: 3}
   - {fileID: -181942923148628749, guid: 631f1745036368c4d81dd637b2e845dc, type: 3}
-  - {fileID: 7736560055426557889, guid: e0d7ff5e62cb54e489eb30653b987ed6, type: 3}
+  - {fileID: -3195960554827558580, guid: cddce7a8ff86f644dafb66fe5329bf44, type: 3}
   - {fileID: -2223003186346218183, guid: aebe62c0725052a4584bfb3cce513a8d, type: 3}
   - {fileID: -7466233245383803313, guid: 8621b02e3acea8640b53f9b8baba64fe, type: 3}
   characterPrefabs:
@@ -3446,11 +3445,11 @@ Transform:
   m_GameObject: {fileID: 1066663655}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -966.1, y: -541, z: 0}
+  m_LocalPosition: {x: -6.0999756, y: -1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 652778514}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1193283624
 GameObject:
@@ -4273,7 +4272,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 183, y: -316}
+  m_AnchoredPosition: {x: 590, y: -166}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1369173353
@@ -4315,8 +4314,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4278190335
+  m_fontColor: {r: 1, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -4371,7 +4370,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -132.86255, w: -142.4668}
+  m_margin: {x: -146.6123, y: 0, z: -132.86255, w: -142.4668}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -6450,3 +6449,4 @@ SceneRoots:
   - {fileID: 791509817}
   - {fileID: 652778514}
   - {fileID: 778213105339029078}
+  - {fileID: 1066663657}
