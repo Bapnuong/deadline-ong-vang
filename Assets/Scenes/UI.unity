@@ -1404,9 +1404,6 @@ RectTransform:
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 488.0054, y: 226.9}
   m_SizeDelta: {x: 566.6493, y: 208.15}
-  m_AnchoredPosition: {x: 479.4222, y: 209.18}
-  m_SizeDelta: {x: 528.1891, y: 172.7}
- d7445897222b1a1a706489a48296fd1291930164
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &415850389
 MonoBehaviour:
@@ -5323,9 +5320,6 @@ RectTransform:
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -373.497, y: 99.841}
   m_SizeDelta: {x: 189.464, y: 85.706}
-  m_AnchoredPosition: {x: -374.27, y: 86.74713}
-  m_SizeDelta: {x: 191.01, y: 81.1617}
-d7445897222b1a1a706489a48296fd1291930164
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2122391665
 MonoBehaviour:
@@ -5407,9 +5401,6 @@ RectTransform:
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -400.9384, y: -64.41496}
   m_SizeDelta: {x: 226.2395, y: 79.6157}
-  m_AnchoredPosition: {x: -396.41, y: -65.18794}
-  m_SizeDelta: {x: 235.29, y: 81.1617}
- d7445897222b1a1a706489a48296fd1291930164
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2129423431
 MonoBehaviour:
@@ -5512,26 +5503,26 @@ MonoBehaviour:
   man3Music: {fileID: 0}
   ending1Music: {fileID: 8300000, guid: c45b73aff06d1064d814465616615a2c, type: 3}
   ending2Music: {fileID: 8300000, guid: e306f9731e897004f8858d89acb78156, type: 3}
-  punch: {fileID: 8300000, guid: 4f66c613b8e7b774087f3719763506d3, type: 3}
-  kick: {fileID: 0}
-  hit: {fileID: 8300000, guid: 612391318810e7848bd9a22594c5fbb6, type: 3}
-  jump: {fileID: 8300000, guid: 153b2760b5209c448815589c617e3b85, type: 3}
-  land: {fileID: 8300000, guid: f8802aad6b7eff44f92c7a5c406d0a6f, type: 3}
-  dash: {fileID: 8300000, guid: e12a199325f94a949a00f766874066b8, type: 3}
+  punch: {fileID: 8300000, guid: de7f69ddf8389e646ae11b5f017c4260, type: 3}
+  kick: {fileID: 8300000, guid: 4d9f858b965edd8449c865743196ce9c, type: 3}
+  hit: {fileID: 8300000, guid: 1c3032b7196b59f458e716a39ad096e1, type: 3}
+  jump: {fileID: 8300000, guid: cf02cef48f4020b4c8984ee4267d3ed2, type: 3}
+  land: {fileID: 8300000, guid: a3e53f3d591a5d94e90e658f517ed42f, type: 3}
+  dash: {fileID: 8300000, guid: c25a421f028f6ea4990b54b80f9f04be, type: 3}
   walk: {fileID: 8300000, guid: b143d7a3206b8834b94a4a0926a6170c, type: 3}
   attackCombo: {fileID: 0}
-  hurt: {fileID: 8300000, guid: aff35bee0d179a54ea03f366970e860e, type: 3}
+  hurt: {fileID: 8300000, guid: 4f60369171cd84b4096c3ea9e2f95bac, type: 3}
   death: {fileID: 8300000, guid: f9185bba38262df40b60fcabb63fd131, type: 3}
-  bossAttack: {fileID: 8300000, guid: 45ef189afa009114cb6909d1f6ea8c9c, type: 3}
-  bossSpecialAttack: {fileID: 0}
-  bossHit: {fileID: 8300000, guid: fd0283d45ce266e4eb8e97882795d208, type: 3}
+  bossAttack: {fileID: 8300000, guid: b5d307e3a2e56d240b230d6b965d6092, type: 3}
+  bossSpecialAttack: {fileID: 8300000, guid: 2c3690b41fdac50498dc289fd6297ddf, type: 3}
+  bossHit: {fileID: 8300000, guid: 1c3032b7196b59f458e716a39ad096e1, type: 3}
   bossRoar: {fileID: 0}
   bossPhaseChange: {fileID: 0}
   bossDeath: {fileID: 8300000, guid: 1feb8920a04066946993e8e17c89d615, type: 3}
-  boss1Dash: {fileID: 8300000, guid: e12a199325f94a949a00f766874066b8, type: 3}
-  boss1Slash1: {fileID: 8300000, guid: 750f55132481c5142ad3690162ff6e86, type: 3}
-  boss1Slash2: {fileID: 0}
-  boss1Slash3: {fileID: 0}
+  boss1Dash: {fileID: 8300000, guid: c25a421f028f6ea4990b54b80f9f04be, type: 3}
+  boss1Slash1: {fileID: 8300000, guid: b5d307e3a2e56d240b230d6b965d6092, type: 3}
+  boss1Slash2: {fileID: 8300000, guid: 2c3690b41fdac50498dc289fd6297ddf, type: 3}
+  boss1Slash3: {fileID: 8300000, guid: b5d307e3a2e56d240b230d6b965d6092, type: 3}
   boss2Slash: {fileID: 8300000, guid: 750f55132481c5142ad3690162ff6e86, type: 3}
   musicSlider: {fileID: 1816940811}
   sfxSlider: {fileID: 1242106294}
