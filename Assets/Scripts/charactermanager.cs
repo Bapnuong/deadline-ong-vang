@@ -82,7 +82,6 @@ public class CharacterSelector : MonoBehaviour
         if (unlocked[currentIndex])
         {
             lockIcon.gameObject.SetActive(false);
-            btnSelect.GetComponentInChildren<TMP_Text>().text = "Select";
             unlockCostText.text = "Unlocked";
         }
         else
@@ -91,7 +90,6 @@ public class CharacterSelector : MonoBehaviour
             Color c = lockIcon.color;
             c.a = 1f; // đảm bảo icon luôn hiện rõ khi bị khóa
             lockIcon.color = c;
-            btnSelect.GetComponentInChildren<TMP_Text>().text = "Unlock";
             unlockCostText.text = "Cost: " + unlockCosts[currentIndex];
         }
     }
