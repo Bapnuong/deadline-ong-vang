@@ -1953,7 +1953,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "DEADLINE ONG V\xC0NG"
+  m_Text: DEADLINE ONG VANG
 --- !u!222 &962273153
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5342,11 +5342,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statusText: {fileID: 415850389}
   statuses:
-  - "Deadline d\xED qu\xE1 r\u1ED3i !!!!!!"
-  - "Bu\u1ED3n ng\u1EE7 qu\xE1.....zzz"
-  - "\u0110ang combat t\u1EEB t\u1EEB!!!"
-  - "L\xE0m xong deadline r\u1ED3i <3"
-  - "May qu\xE1 n\u1ED9p k\u1ECBp Deadline -.-"
+  - Deadline di qua roi !!!!!!
+  - Buon ngu qua.....zzz
+  - Dang combat tu tu!!!
+  - Lam xong deadline roii <3
+  - May qua nop kip Deadline -.-
 --- !u!1 &2122391663
 GameObject:
   m_ObjectHideFlags: 0
