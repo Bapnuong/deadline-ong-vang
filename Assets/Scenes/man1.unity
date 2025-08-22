@@ -3117,8 +3117,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec6765e29e952204494a512383c8692e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  finishedPanel: {fileID: 0}
-  finishedText: {fileID: 0}
+  finishedPanel: {fileID: 1534834240}
+  finishedText: {fileID: 1632268836}
   scaleDuration: 0.6
 --- !u!4 &1215825941
 Transform:
