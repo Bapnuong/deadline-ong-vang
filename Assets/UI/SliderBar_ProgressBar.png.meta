@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SliderBar_ProgressBar_0: -7968546146588769035
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

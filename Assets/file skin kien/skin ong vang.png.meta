@@ -1,0 +1,1742 @@
+fileFormatVersion: 2
+guid: 9c9793e692967a64b9fe6ab2b9dfc316
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2860195418594643884
+    second: skin ong vang_0
+  - first:
+      213: 3687306734874577007
+    second: skin ong vang_1
+  - first:
+      213: 8287210722702108714
+    second: skin ong vang_2
+  - first:
+      213: -982393073926886108
+    second: skin ong vang_3
+  - first:
+      213: 1636186856747730017
+    second: skin ong vang_4
+  - first:
+      213: -3851857173572864059
+    second: skin ong vang_5
+  - first:
+      213: 3312399402399995624
+    second: skin ong vang_6
+  - first:
+      213: -3895815336242059167
+    second: skin ong vang_7
+  - first:
+      213: -2907458722990568184
+    second: skin ong vang_8
+  - first:
+      213: 8533862014784422674
+    second: skin ong vang_9
+  - first:
+      213: -4495937260953574207
+    second: skin ong vang_10
+  - first:
+      213: 178604931543213372
+    second: skin ong vang_11
+  - first:
+      213: 1430019068782624646
+    second: skin ong vang_12
+  - first:
+      213: -2475121790511833037
+    second: skin ong vang_13
+  - first:
+      213: 3138269211972832491
+    second: skin ong vang_14
+  - first:
+      213: -6677944037578695331
+    second: skin ong vang_15
+  - first:
+      213: 7998878486164581016
+    second: skin ong vang_16
+  - first:
+      213: -7114595249261776915
+    second: skin ong vang_17
+  - first:
+      213: -3492938874992212222
+    second: skin ong vang_18
+  - first:
+      213: -5593945118318996687
+    second: skin ong vang_19
+  - first:
+      213: -6994288423799746110
+    second: skin ong vang_20
+  - first:
+      213: -8972664020002312504
+    second: skin ong vang_21
+  - first:
+      213: -5753318596258195078
+    second: skin ong vang_22
+  - first:
+      213: 2852876480684645315
+    second: skin ong vang_23
+  - first:
+      213: 8990749987423485124
+    second: skin ong vang_24
+  - first:
+      213: -8378869176463542999
+    second: skin ong vang_25
+  - first:
+      213: 2772332905794539622
+    second: skin ong vang_26
+  - first:
+      213: -4228185832133425121
+    second: skin ong vang_27
+  - first:
+      213: 8525109938516754791
+    second: skin ong vang_28
+  - first:
+      213: -6403494435011845659
+    second: skin ong vang_29
+  - first:
+      213: 8870217864727664494
+    second: skin ong vang_30
+  - first:
+      213: 2083456095764313561
+    second: skin ong vang_31
+  - first:
+      213: -3700453958416601302
+    second: skin ong vang_32
+  - first:
+      213: 5861910640943811868
+    second: skin ong vang_33
+  - first:
+      213: 7346301645960466721
+    second: skin ong vang_34
+  - first:
+      213: 936524669188544707
+    second: skin ong vang_35
+  - first:
+      213: 3120965958520997640
+    second: skin ong vang_36
+  - first:
+      213: 5944793597415465445
+    second: skin ong vang_37
+  - first:
+      213: -4697869210826614501
+    second: skin ong vang_38
+  - first:
+      213: -8326114874015366825
+    second: skin ong vang_39
+  - first:
+      213: -3655790572905083227
+    second: skin ong vang_40
+  - first:
+      213: -8276957311670706615
+    second: skin ong vang_41
+  - first:
+      213: -3049339803806456475
+    second: skin ong vang_42
+  - first:
+      213: 3550489649538910414
+    second: skin ong vang_43
+  - first:
+      213: -7310925175337166387
+    second: skin ong vang_44
+  - first:
+      213: 1977961978724839032
+    second: skin ong vang_45
+  - first:
+      213: -1622576746385462778
+    second: skin ong vang_46
+  - first:
+      213: -7974321264938531185
+    second: skin ong vang_47
+  - first:
+      213: -6761620247135924868
+    second: skin ong vang_48
+  - first:
+      213: 3003039504897758175
+    second: skin ong vang_49
+  - first:
+      213: 5452270603032645335
+    second: skin ong vang_50
+  - first:
+      213: 7346346092753175555
+    second: skin ong vang_51
+  - first:
+      213: 1922391473521119643
+    second: skin ong vang_52
+  - first:
+      213: -2200172971952312510
+    second: skin ong vang_53
+  - first:
+      213: 1135074885274334157
+    second: skin ong vang_54
+  - first:
+      213: -1025531487545168459
+    second: skin ong vang_55
+  - first:
+      213: -9062180462684445014
+    second: skin ong vang_56
+  - first:
+      213: 7798362569270942752
+    second: skin ong vang_57
+  - first:
+      213: 6569830656064344440
+    second: skin ong vang_58
+  - first:
+      213: 7800206700480607659
+    second: skin ong vang_59
+  - first:
+      213: -2330208297557143974
+    second: skin ong vang_60
+  - first:
+      213: 815205782124572361
+    second: skin ong vang_61
+  - first:
+      213: 879706121851979561
+    second: skin ong vang_62
+  - first:
+      213: -6144829937827500767
+    second: skin ong vang_63
+  - first:
+      213: -2803629125500701380
+    second: skin ong vang_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skin ong vang_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 365
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf8889449471b720800000000000000
+      internalID: 2860195418594643884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 366
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68ca1e60f1fb2330800000000000000
+      internalID: 3687306734874577007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 329
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28a779ae36120370800000000000000
+      internalID: 8287210722702108714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 366
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42da8c644b6dd52f0800000000000000
+      internalID: -982393073926886108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 295
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1648c9ef647e4b610800000000000000
+      internalID: 1636186856747730017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 365
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c736a30f447b8ac0800000000000000
+      internalID: -3851857173572864059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 364
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e69446e4b108fd20800000000000000
+      internalID: 3312399402399995624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 366
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168e5c4b7984fe9c0800000000000000
+      internalID: -3895815336242059167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_8
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 367
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d490122b1a6a7d0800000000000000
+      internalID: -2907458722990568184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 328
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213cc61c94e5e6670800000000000000
+      internalID: 8533862014784422674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 300
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c46b64b1e83b91c0800000000000000
+      internalID: -4495937260953574207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 329
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3524cb2d388a7200800000000000000
+      internalID: 178604931543213372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 329
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fb2d834c278d310800000000000000
+      internalID: 1430019068782624646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 329
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330a6b468d996add0800000000000000
+      internalID: -2475121790511833037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 330
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec8f25983f5d8b20800000000000000
+      internalID: 3138269211972832491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 290
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d1f22774d2353a0800000000000000
+      internalID: -6677944037578695331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 259
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89aaa517a99b10f60800000000000000
+      internalID: 7998878486164581016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 300
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defe117c051e34d90800000000000000
+      internalID: -7114595249261776915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 292
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207cfed7996968fc0800000000000000
+      internalID: -3492938874992212222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_19
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 299
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133d0998d805e52b0800000000000000
+      internalID: -5593945118318996687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 262
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c11ac26cbb4fee90800000000000000
+      internalID: -6994288423799746110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 259
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce65deec91ba7380800000000000000
+      internalID: -8972664020002312504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 217
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a799166183b1820b0800000000000000
+      internalID: -5753318596258195078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_23
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 218
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb56434b04779720800000000000000
+      internalID: 2852876480684645315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_24
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 220
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc79b08a7f85cc70800000000000000
+      internalID: 8990749987423485124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_25
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 256
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925bb6d80e648bb80800000000000000
+      internalID: -8378869176463542999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 218
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6609201e61e497620800000000000000
+      internalID: 2772332905794539622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 217
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18095733677255c0800000000000000
+      internalID: -4228185832133425121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_28
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 187
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761817432564f4670800000000000000
+      internalID: 8525109938516754791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_29
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 220
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1adef0db73227a0800000000000000
+      internalID: -6403494435011845659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 185
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e679a6bc628591b70800000000000000
+      internalID: 8870217864727664494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 187
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5772dc74ce9ec10800000000000000
+      internalID: 2083456095764313561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 144
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fe3ec0bb855acc0800000000000000
+      internalID: -3700453958416601302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 181
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dc9829ba0b95150800000000000000
+      internalID: 5861910640943811868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 181
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1215754bc6e43f560800000000000000
+      internalID: 7346301645960466721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_35
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 182
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c89f5689343ffc00800000000000000
+      internalID: 936524669188544707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 144
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8070bb1f006ef4b20800000000000000
+      internalID: 3120965958520997640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 143
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e127fca746208250800000000000000
+      internalID: 5944793597415465445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b195f67d7d0ddceb0800000000000000
+      internalID: -4697869210826614501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 108
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751c73fb2a2b37c80800000000000000
+      internalID: -8326114874015366825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_40
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 144
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae45c8d7d5044dc0800000000000000
+      internalID: -3655790572905083227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 144
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e9bc0ad27522d80800000000000000
+      internalID: -8276957311670706615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_42
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 144
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56528a2ca919ea5d0800000000000000
+      internalID: -3049339803806456475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 106
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8c773668fd54130800000000000000
+      internalID: 3550489649538910414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_44
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 107
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc95198b9406a8a90800000000000000
+      internalID: -7310925175337166387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 106
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e6f11a0f1237b10800000000000000
+      internalID: 1977961978724839032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 107
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60aa2e2cb037b79e0800000000000000
+      internalID: -1622576746385462778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_47
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 108
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86ce7e2f05855190800000000000000
+      internalID: -7974321264938531185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 108
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dcf57b536e922a0800000000000000
+      internalID: -6761620247135924868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 70
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd355e7d480fca920800000000000000
+      internalID: 3003039504897758175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 69
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dec011e93b5aab40800000000000000
+      internalID: 5452270603032645335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_51
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 69
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304c1a749d673f560800000000000000
+      internalID: 7346346092753175555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_52
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 70
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9157722cd4bdaa10800000000000000
+      internalID: 1922391473521119643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 70
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fed5ac65a6771e0800000000000000
+      internalID: -2200172971952312510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_54
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 70
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc37e32289890cf00800000000000000
+      internalID: 1135074885274334157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_55
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 71
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd64eaab8494c1f0800000000000000
+      internalID: -1025531487545168459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_56
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 34
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa66537f1eaac3280800000000000000
+      internalID: -9062180462684445014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 34
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cd8137079593c60800000000000000
+      internalID: 7798362569270942752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_58
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 33
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871df295c2abc2b50800000000000000
+      internalID: 6569830656064344440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_59
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 34
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5b4c4baa6ef3c60800000000000000
+      internalID: 7800206700480607659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_60
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 34
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e407b36ef69afd0800000000000000
+      internalID: -2330208297557143974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_61
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 33
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce2166f651305b00800000000000000
+      internalID: 815205782124572361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_62
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 34
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92749b39e08553c00800000000000000
+      internalID: 879706121851979561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d2b9e6abd29baa0800000000000000
+      internalID: -6144829937827500767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skin ong vang_64
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3577942a228719d0800000000000000
+      internalID: -2803629125500701380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
