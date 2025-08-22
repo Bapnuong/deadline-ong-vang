@@ -1400,8 +1400,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 488.0054, y: 226.9}
-  m_SizeDelta: {x: 566.6493, y: 208.15}
+  m_AnchoredPosition: {x: 580, y: 232}
+  m_SizeDelta: {x: 792.277, y: 208.15}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &415850389
 MonoBehaviour:
@@ -1424,8 +1424,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 58b647c5b2ec4184e9a07a561cdf0644, type: 3}
-    m_FontSize: 78
+    m_Font: {fileID: 12800000, guid: 2a7e406870e8b5149955f9ab84d417db, type: 3}
+    m_FontSize: 49
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -1436,7 +1436,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: "Bu\u1ED3n ng\u1EE7 q\xFAa"
 --- !u!222 &415850390
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1953,7 +1953,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: DEADLINE ONG VANG
+  m_Text: DEADLINE GOLDEN BEE
 --- !u!222 &962273153
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5342,11 +5342,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   statusText: {fileID: 415850389}
   statuses:
-  - Deadline di qua roi !!!!!!
-  - Buon ngu qua.....zzz
-  - Dang combat tu tu!!!
-  - Lam xong deadline roii <3
-  - May qua nop kip Deadline -.-
+  - "Deadline d\xED qu\xE1 r\u1ED3i !!!!!!"
+  - "Bu\u1ED3n ng\u1EE7 qu\xE1.....zzz"
+  - "\u0110ang combat, t\u1EEB t\u1EEB !!!"
+  - "L\xE0m xong deadline r\u1ED3iii <3"
+  - "May qu\xE1 k\u1ECBp n\u1ED9p deadline -.-"
 --- !u!1 &2122391663
 GameObject:
   m_ObjectHideFlags: 0
